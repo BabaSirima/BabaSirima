@@ -1,6 +1,6 @@
 # Baba Sirima
 
-### Data Analyst | Aspiring Data Scientist
+### Data Analyst | Data Scientist Professional 
 **Turning complex data into actionable insights and data-driven decisions.**
 
 I am a data professional with a **Certificate in Data Analytics from the 
@@ -81,14 +81,18 @@ into executive-level performance insights.
 
 ---
 
-## 🎓 Education & Professional Development
+## 🎓 Education & Certifications
 
-**M.S. in Data Science**  
+**Master of Science in Data Science**  
 University of Nebraska at Omaha  
-*Expected December 2026*
+*Degree requirements completed; degree conferral pending*
 
 **Certificate in Data Analytics**  
 University of Nebraska at Omaha  
+*Completed*
+
+**Microsoft Power BI Data Analyst Professional Certificate**  
+Microsoft / Coursera  
 *Completed*
 
 ---
