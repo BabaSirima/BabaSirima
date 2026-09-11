@@ -113,7 +113,7 @@ Currently pursuing opportunities in:
 **Data Analytics • Data Science • Business Intelligence • 
 Predictive Analytics • Statistical Modeling**
 
-I am particularly interested in roles where I can combine **Python, SQL, 
+I am particularly interested in roles where I can combine **Python, R, SQL, 
 Power BI, statistical analysis, and machine learning** to solve real-world 
 problems and create measurable business value.
 
