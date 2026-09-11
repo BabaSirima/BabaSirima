@@ -1,11 +1,12 @@
 # Baba Sirima
 
-### Data Analyst | Data Scientist Professional 
+### Data Analyst | Data Scientist
 **Turning complex data into actionable insights and data-driven decisions.**
 
 I am a data professional with a **Certificate in Data Analytics from the 
-University of Nebraska at Omaha (UNO)** and an **M.S. in Data Science 
-(expected December 2026)**.
+University of Nebraska at Omaha (UNO)** and have completed all degree requirements for an **M.S. in Data Science** with 
+degree conferral pending.
+
 
 My work combines **data analytics, machine learning, statistical modeling, 
 and business intelligence** to uncover patterns, evaluate risk, and transform 
@@ -39,7 +40,7 @@ Model Evaluation
 
 # 🚀 Featured Projects
 
-### 🏥 Patient Churn Prediction | Machine Learning
+### 🏥 [Patient Churn Prediction | Machine Learning](https://github.com/BabaSirima/patient-churn-machine-learning)
 Developed an end-to-end machine learning pipeline to identify patients at 
 risk of churn.
 
@@ -53,7 +54,7 @@ risk of churn.
 
 ---
 
-### 📈 Patient Churn | Survival Analysis
+### 📈 [Patient Churn | Survival Analysis](https://github.com/BabaSirima/patient-churn-coxph-survival-analysis)
 Investigated not only **whether** patients churn, but also **when** churn is 
 likely to occur using survival analysis.
 
@@ -67,7 +68,7 @@ likely to occur using survival analysis.
 
 ---
 
-### 📊 Sales & Profit Analytics | Power BI
+### 📊 [Sales & Profit Analytics | Power BI](https://github.com/BabaSirima/Tailwind-Traders-Power-Bi-Analysis)
 Built an interactive business intelligence solution to transform sales data 
 into executive-level performance insights.
 
