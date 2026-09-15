@@ -68,7 +68,7 @@ likely to occur using survival analysis.
 
 ---
 
-### 📊 [Sales & Profit Analytics | Power BI](https://github.com/BabaSirima/Tailwind-Traders-Power-Bi-Analysis)
+### 📊 [Tailwind Traders Sales & Profit Analytics | Power BI](https://github.com/BabaSirima/Tailwind-Traders-Power-Bi-Analysis)
 Built an interactive business intelligence solution to transform sales data 
 into executive-level performance insights.
 
